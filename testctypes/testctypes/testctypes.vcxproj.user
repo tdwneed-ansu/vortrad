@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommand>C:\Users\A\AppData\Local\Programs\Python\Python39\python.exe</LocalDebuggerCommand>
+    <LocalDebuggerCommandArguments>E:\PycharmProject\venv\test.py</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|ARM'">
+    <LocalDebuggerCommand>C:\Users\A\AppData\Local\Programs\Python\Python39\python.exe</LocalDebuggerCommand>
+    <LocalDebuggerCommandArguments>E:\PycharmProject\venv\test.py</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommand>C:\Users\tdwne\AppData\Local\Programs\Python\Python38\python.exe</LocalDebuggerCommand>
+    <LocalDebuggerCommandArguments>C:\Users\tdwne\Documents\cmp\FieldTest\FieldTest\main.py</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
